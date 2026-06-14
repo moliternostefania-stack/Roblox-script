@@ -1,5 +1,5 @@
 # Roblox-script
-My own script whit AI
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
